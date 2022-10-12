@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@azure/cosmos": "^3.7.4",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^5.5.1",
     "xlsx": "^0.16.3"
   }
 }
